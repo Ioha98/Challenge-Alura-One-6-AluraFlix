@@ -1,0 +1,86 @@
+{
+  "categorias": [
+    {
+      "titulo": "Pequeños Mamiferos",
+      "cor": "#C4A484",
+      "videos": [
+        {
+          "titulo": "Documental El mundo Salvaje National Geographic",
+          "url": "https://www.youtube.com/watch?v=IPDU1thjWnA"
+        },
+        {
+          "titulo": "Los lemmings de estepa son tan pequeños como ingeniosos National Geographic",
+          "url": "https://www.youtube.com/watch?v=z_IZ8oNur6k"
+        },
+        {
+          "titulo": "Conoce al Drácula de la vida real: el murciélago vampiro National Geographic",
+          "url": "https://www.youtube.com/watch?v=6PQsubBsabw"
+        },
+        {
+          "titulo": "El demonio lemur National Geographic",
+          "url": "https://www.youtube.com/watch?v=aJsnVAdmth0"
+        },
+        {
+          "titulo": "Mamíferos pequeños pero amenazantes | Los más peligrosos de África National Geographic",
+          "url": "https://www.youtube.com/watch?v=m7hmXqkE-3w"
+        },
+        {
+          "titulo": "Llega la noche y el gálago despierta, pero deberá andar con cuidado National Geographic",
+          "url": "https://www.youtube.com/watch?v=lOB3cxzuWTY"
+        }     
+      ]
+    },
+    {
+      "titulo": "Vida marina",
+      "cor": "#9fd5d1",
+      "videos": [
+        {
+          "titulo": "Los mejores DEPREDADORES del Océano se dan un FESTÍN de SARDINAS National Geographic",
+          "url": "https://www.youtube.com/watch?v=noJS-Je4kdQ"
+        },
+        {
+          "titulo": "MORENAS vs TIBURONES. Grandes depredadores cazados National Geographic",
+          "url": "https://www.youtube.com/watch?v=EFWNBXZRO-8"
+        },
+        {
+          "titulo": "El sorprendente desierto abisal esconde secretos inimaginables National Geographic",
+          "url": "https://www.youtube.com/watch?v=6J_QLdCwZ1A"
+        },
+        {
+          "titulo": "Así se aprovechan las ballenas jorobadas del trabajo de las orcas National Geographic",
+          "url": "https://www.youtube.com/watch?v=kjF-3k9SrjM"
+        },
+        {
+          "titulo": "Nada más nacer, esta tortuga olivácea se enfrenta a incontables amenazas National Geographic",
+          "url": "https://www.youtube.com/watch?v=463_u28H1a8"
+        }
+      ]
+    },
+    {
+      "titulo": "Aves",
+      "cor": "Lightgray",
+      "videos": [
+        {
+          "titulo": "Safari Live: Aves salvajes National Geographic",
+          "url": "https://www.youtube.com/watch?v=hT3QAsaP_Qg"
+        },
+        {
+          "titulo": "Los tejedores tienen un efectivo sistema de seguridad en sus nidos National Geographic",
+          "url": "https://www.youtube.com/watch?v=vEXuj-Nrsuw"
+        },
+        {
+          "titulo": "La majestuosa águila real National Geographic",
+          "url": "https://www.youtube.com/watch?v=MPDVLdj6sLY"
+        },
+        {
+          "titulo": "Los pájaros que van a pescar con 'tecnología balística' National Geographic",
+          "url": "https://www.youtube.com/watch?v=zx784ifOvpo"
+        },
+        {
+          "titulo": "El APASIONANTE baile de los FLAMENCOS",
+          "url": "https://www.youtube.com/watch?v=-LoyIEQgaIQ"
+        }
+      ]
+    }
+  ]
+}
